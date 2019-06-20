@@ -1,2 +1,2 @@
-def info(def hostname) {
+def info(hostname) {
 sh "echo HELLO ${hostname}" }
